@@ -1,3 +1,428 @@
+/* h1{
+    color:red;
+}
+p{
+    color:deeppink;
+}
+h2{
+    color:rgb(240, 14, 172);
+}
+h3{
+    color:#ffeacb;
+}
+button{
+    color:blue;
+    background-color: chartreuse;
+}
+body{
+    background-color: darkslategrey;
+} */
+
+/* #myid{
+    background-color:blue;
+}
+.heading{
+    color:red;
+}
+button{
+    color:green;
+}
+h4,p{
+    color:pink;
+}
+#abc{
+    color:darkslategrey;
+} */
+
+/* p{
+    text-align:center;
+    line-height:normal;
+    font-size:30px;
+    font-weight:lighter;
+
+}
+
+h1{
+    font-size:30px;
+    text-align: center;
+    text-decoration: dotted underline overline;
+    font-weight:800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-align: left;
+    font-weight:lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: green double overline underline;
+}
+
+#h101{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+
+/* div{
+    height:100px;
+    width:200px;
+    background-color: aquamarine;
+} */
+
+
+/* p{
+    height:50px;
+    width:200px;
+    background-color: red;
+    color:yellow;
+    text-align:center;
+    border:5px solid aqua;
+} */
+
+ /* h3{ */
+    /* height:60px;
+    width:60px;
+    text-align: center;
+    background-color: orchid;
+    color: black;
+    border: 4px dashed, yellow;
+    border-radius:10%;
+    padding:15px 2px 1px 2px; */
+    /* margin:100px,20px,80px,10px; */
+/* }  */
+
+/* #div101{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+/*                    TRAFFIC LIGHT SYSTEM 
+#ts{
+    height:200px;
+    width:70px;
+    background-color:black;
+    color:white;
+    padding:5px;
+}
+
+#tlight1{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color: red;
+    padding:3px;
+    text-align: center;
+    margin:8px auto;
+    animation: redLight 6s 1;
+}
+#tlight2{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color: yellow;
+    padding:3px;
+    text-align: center;
+    margin:8px auto;
+    animation: yellowLight 6s 1;
+}
+#tlight3{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color: green;
+    padding:3px;
+    text-align: center;
+    margin:8px auto;
+    animation: greenLight 6s 1;
+}
+
+@keyframes redLight {
+    0%, 33% { 
+        background-color: red;
+    }
+    34%, 100% {
+         background-color: grey;
+    }
+}
+
+@keyframes yellowLight {
+    0%, 33% { 
+        background-color: grey; 
+    }
+    34%, 66% { 
+        background-color: yellow; 
+    }
+    67%, 100% { 
+        background-color: grey; 
+    }
+}
+
+@keyframes greenLight {
+    0%, 66% { 
+        background-color: grey; 
+    }
+    67%, 100% { 
+        background-color: green; 
+    }
+}                                   TRAFFIC LIGHT SYSTEM*/
+
+/* h2{
+    height:100px;
+    width: 100px;
+    color:black;
+    background-color: coral;
+    border-radius: 10px;
+    text-align:center;
+    padding:70px 10px 5px 10px;
+    margin:20px;
+    animation:blinking 2s 5;
+}
+
+@keyframes blinking{
+    0%,33% {
+        background-color:green;
+    }
+    34%,66% {
+        background-color: blue;
+    }
+    67%, 100%{
+        background-color: pink;
+    }
+} */
+
+
+
+
+/* PRACTICE*/
+                    /* AMAZON NAVIGATION BAR*/
+ /* *{
+    color:white;
+}
+
+body{
+    background-color: rgb(83, 188, 245);
+}
+
+#navbar{
+    height:60px; 
+    width:850px;
+    background-color:#0f1111;
+    border: 4px solid white;
+    position:fixed;
+    top:3px; */
+/* }  
+
+ button{
+    background-color: #f08804;
+}
+#logo{
+    color:#f08804;
+    font-size:25px;
+} 
+a{
+    display:inline-block;
+    margin-right:70px;
+    text-decoration: none; 
+}                        AMAZON NAVIGATION BAR  */
+
+/* 
+.c1{ */
+    /* background-color: darkblue; */
+    /* height: 100px;
+    width:100px;
+    padding:25px;
+    margin:90px 25px 25px 25px; */
+    /* border:3px solid white;
+    display:inline-block;
+    border-radius: 25px; */
+    /* border-radius: 10px; */
+/* }
+#d1{
+    background-image:url("mustang_photo.jpg"); 
+    background-size: cover;
+}
+#d2{
+    background-color: rgba(0,200,0,0.5);
+}
+#d3{
+    background-color: rgba(0,0,200,0.5);
+}
+#box1{
+    height:200px;
+    width:200px;
+    font-size:5px;
+    background-color: crimson;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    margin:20px;
+}
+#box2{
+    height:60px;
+    width:60px; */
+    /* font-size:2em; */
+    /* background-color: darksalmon; */
+    /* width:5em; */
+/* }
+#sb{
+    height:70px;
+    width:50px;
+    text-align:center;
+    padding:10px;
+    background-color: rgb(255, 0, 0);
+    position: sticky;
+    top:60px;
+}
+#division{
+    /* used for ads or some side line boxes */
+    /* height: 70px;
+    width: 70px;
+    text-align:center;
+    padding:30px;
+    background-color: rgb(40, 4, 91);
+    background-image: url("sephora.jpg");
+    background-size: cover;
+    position: fixed;
+    top:80px;
+    right:10px;
+} */
+/* #ps5{
+    height: 60px;
+    width:60px;
+    background-color: rgb(0,0,225);
+    margin:8px;
+    padding:10px;
+    position:fixed;
+    bottom:15px;
+    right:2px;
+}
+
+#flexbox{
+    height:200px;
+    width:600px;
+    border:4px solid black;
+    margin:25px;
+    text-align: center;
+    display:flex;
+    flex-direction:row;  */
+    /* justify-content: space-evenly; */
+    /* flex-wrap:wrap; */
+    /* align-items: baseline;
+
+
+}
+.boxes{
+    height:75px;
+    width:75px;
+    text-align: center;
+    display: inline-block;
+
+}
+#tr{
+    height:60px;
+    width:60px;
+    display:inline-block;
+    background-color: deeppink;
+    color:black;
+    border-radius:10px;
+    border:4px solid yellow;
+    margin:30px;
+    padding:10px;
+    transition:all 2s ease-in 0s;
+    /* transform:rotate(125deg); */
+/* }
+#tr:hover{
+    background-color: green; */
+    /*color:white; */
+    /* transform:rotateZ(90deg); */
+    /* transform:translateY(-100px);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:70%;
+}
+#tr:active{
+    background-color: white;
+    color:red;
+    transform:rotate(90deg);
+}
+#dl{
+    height:30px;
+    width:30px;
+    background-color:darkblue;
+    border:1px solid black;
+    border-radius:50%;
+    display:inline-block;
+    margin:20px;
+    padding:20px; */
+    /* position:relative; */
+    /* animation-name:disco;
+    animation-duration: 2s;
+    animation-iteration-count: 4;
+    animation-delay:2s; */
+    /* animation-direction: reverse; */
+/*}
+@keyframes disco{
+    0%,33%{ background-color: darkgreen;*/
+        /* left:0px; */
+        /* right:0px} */
+    /*}
+    34%,50%{
+        background-color: blue;
+    }
+    51%,75%{
+        background-color: rgb(180,0,0);  */
+        /* left:100px; */
+        /* right:100px; */
+   /* }
+    76%,100%{
+        background-color: #f08804;
+    }
+}  */
+
+/*   #check{                   SIMPLE LOADER  */
+   /* height:90px;
+    width:90px;  */
+    /* background-color: white; */
+   /* background-color: white;
+    margin:40px;
+    padding:50px;
+    padding-bottom: 60px;
+    padding-right: 70px;
+}
+#ps8{
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border:4px solid #69B578;
+    border-top: 4px solid #D0DB97;
+    margin:30px;
+    padding:5px;     */
+    
+    /* border:1px solid black; */
+    /*animation:spinit 2s ease-in-out 0s 5;
+}
+@keyframes spinit{
+    from{
+        transform:rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }*/
+/*}                          SIMPLE LOADER*/
+/*footer{
+    background-color: black;
+    text-align: center;
+    font-size: small;   */
+/*}        PRACTICE*/
+
 
 /* AMAZON CLONE */
 *{

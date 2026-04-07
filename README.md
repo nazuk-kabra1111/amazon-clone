@@ -25,3 +25,5 @@ What I Learned:
 
 Acknowledgement:
 Inspired by the design of Amazon for learning purposes.
+
+(SCREENSHOTS ATTACHED IN THE FOLDER)
